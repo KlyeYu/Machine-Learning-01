@@ -1,5 +1,5 @@
-# Machine-Learning-01
-Here is my first homework of Machine Learning
+# Machine-Learning-Linear-Regression
+Here is my first homework of Machine Learning about linear regression.
 
 ## Introduction
 Here is Yu Kangqi's Assignment 1 of DDA3020 in CUHKsz.
