@@ -16,7 +16,7 @@ To run the code of me smoothly. You need to install numpy, pandas, matplotlib, s
 There are one jupyter notebook file, one csv file, one assignment questions and one report.
 
 ### Contact 
-You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-yu-339266220/
+You can contact me through LinkedIn: https://www.linkedin.com/in/kangqi-kyle-yu-339266220/
 
 ## Author and acknowledgment
 Author: Yu Kangqi (余康齐)
